@@ -33,5 +33,3 @@ Berdasarkan permasalahan tersebut diatas, tim marketing ingin :
 4. Sistem ini bertujuan untuk membantu menjaga **tingkat kepuasan nasabah**, karena selektif dalam memfilter iklan yang tidak diharapkan (frekuensi berlebihan) terhadap nasabah.
 
 5. Analisis yang tepat dalam penentuan faktor yang mempengaruhi nasabah dalam pengambilan keputusan, sehingga tim marketing dapat merumuskan dan melaksanakan strategi / program pemasaran yang disesuaikan dengan kriteria dari nasabah yang ditargetkan.
-
-6. 
